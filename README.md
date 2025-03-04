@@ -9,6 +9,8 @@ IMDB's 404 is generative, using moving quotes curated and adapted for a 404 page
 
 rethread's 404 is animated and generative https://rethread.art/404
 
+RCA's 404 is interactive + sound synthesis https://www.rcarecords.com/404
+
 ## related work
 
 [The 11 most creative 404 pages on the web ](https://www.vev.design/blog/creative-404-pages/), Aug. 2024
